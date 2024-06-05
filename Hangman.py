@@ -1,20 +1,17 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
 
 
 
 
 
-# In[2]:
 
 
 import random
 import time
 
 
-# In[3]:
 
 
 print("\nWelcome to Hangman game by Fouad\n")
@@ -25,7 +22,6 @@ print("The game is about to start!\nLet's play Hangman!")
 time.sleep(3)
 
 
-# In[4]:
 
 
 def main() :
@@ -59,7 +55,6 @@ def play_loop():
         exit()
 
 
-# In[ ]:
 
 
 def hangman():
@@ -198,100 +193,6 @@ def hangman():
 main()
 
 hangman()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
